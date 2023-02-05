@@ -46,7 +46,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### 💜 Railway -Simple Way
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4x-y8J?referralCode=RFr_Ev)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Vn9F8D?referralCode=TG81LH)
 ### 💜 Heroku - simplest way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/RENAMER_BOT_V3)
